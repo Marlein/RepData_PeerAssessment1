@@ -1,18 +1,13 @@
 # PA1_template
 Marlein  
 31 mei 2017  
-This assignment from week 2 of the course "Reproducible Research" of Coursera 
-makes use of data from a personal activity monitoring device. This device 
-collects data at 5 minute intervals through out the day. The data consists of 
-two months of data from an anonymous individual collected during the months of 
-October and November, 2012 and include the number of steps taken in 5 minute 
-intervals each day.
+This assignment from week 2 of the course "Reproducible Research" of Coursera makes use of data from a personal activity monitoring device. This device collects data at 5 minute intervals through out the day. The data consists of two months of data from an anonymous individual collected during the months of October and November, 2012 and include the number of steps taken in 5 minute intervals each day.
 
 Setting work directory and loading ggplot2 and dplyr.  
 
 
 ```r
-setwd("C:/Users/marle_000/Documents/Documents/Datasciencecoursera/5 Reproducible Research/Week 2")  
+setwd("C:/Users/marle_000/Documents/Documents/Datasciencecoursera/5 Reproducible Research/Week 2/PA1_github")  
 library(ggplot2)   
 library(dplyr)
 ```
